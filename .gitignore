@@ -1,0 +1,26 @@
+# Mac OS System Files
+.DS_Store
+
+# Python Files
+*__pycache__
+*.pytest_cache
+*.pyc
+
+# VS Code Files
+.vscode/
+*.code-workspace
+
+# PyCharm Files
+.idea/
+
+# Jupyter Notebook Files
+.ipynb_checkpoints/
+
+# Domino Files
+*.dominokeep
+
+# Other
+venv
+*.xml
+*.iml
+
